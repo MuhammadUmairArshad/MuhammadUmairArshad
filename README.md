@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Portfolio Projects:</h2>
 
-- ### [Inventory Performance Dashboard – Stock Health & Optimization](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
+- ### [Inventory Performance Analysis Using Power BI – Stock Health & Optimization](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
   To monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
-- ### [HR Analytics Dashboard – Employee Performance & Attrition Tracking](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
+- ### [HR Analytics Using Power BI – Employee Performance & Attrition Tracking](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
   To track HR performance, analyze employee demographics, monitor attrition trends, and identify workforce patterns to support better HR decision making.
-- ### [Customer Churn Analysis](https://github.com/MuhammadUmairArshad/Customer-Churn-Analysis)
+- ### [Customer Churn Analysis Using Power BI](https://github.com/MuhammadUmairArshad/Customer-Churn-Analysis)
   To analyze customer churn patterns, identify key churn reasons, detect high-risk customer segments, and support retention strategies by targeting root causes of customer attrition. 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
