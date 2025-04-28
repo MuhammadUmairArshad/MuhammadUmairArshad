@@ -1,4 +1,4 @@
-<h1>Hi, I'm Umair! <br/> Data Analyst , BI Developer</h1>
+<h1>Hi 👋, I'm Umair! <br/> Data Analyst , BI Developer</h1>
 I help businesses turn spreadsheets and databases into smart decisions.
 <h2>👨‍💻 Portfolio Projects:</h2>
 
