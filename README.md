@@ -1,5 +1,5 @@
 <h1>Hi, I'm Umair! <br/> Data Analyst , BI Developer
-
+Unlock the full value of your data — I help businesses turn spreadsheets and databases into smart decisions. Let’s connect!
 <h2>👨‍💻 Portfolio Projects:</h2>
 
 - ### [Inventory Performance Analysis Using Power BI – Stock Health & Optimization](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
