@@ -3,8 +3,9 @@
 <h2>👨‍💻 Portfolio Projects:</h2>
 
 - ### [Inventory Performance Dashboard – Stock Health & Optimization](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
-  Built a machine learning model to predict future sales using historical data.
-- [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation) — Conducted RFM analysis and visualized customer clusters in Power BI.
+  To monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
+- ### [HR Analytics Dashboard – Employee Performance & Attrition Tracking](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
+  To track HR performance, analyze employee demographics, monitor attrition trends, and identify workforce patterns to support better HR decision making.
 - [Order Approval Workflow Audit](https://github.com/yourusername/order-approval-audit) — SQL queries to detect discrepancies in order approvals.
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
