@@ -12,7 +12,7 @@ I help businesses turn raw data into clear insights for smarter decisions.
   Developed 20 SQL queries to identify anomalies across financial transactions, operational processes, and customer interactions.
 - ### [Customer Segmentation Analysis Using SQL](https://github.com/MuhammadUmairArshad/Customer-Segmentation-Analysis)
   Implemented RFM (Recency, Frequency, Monetary) model in SQL to categorize customers based on their purchasing behaviors.
-- ### [Sales Forecasting Using Pyhton](https://github.com/MuhammadUmairArshad/Sales-Forecasting-Model-Using-Pyhton)
+- ### [Sales Forecasting Using Python](https://github.com/MuhammadUmairArshad/Sales-Forecasting-Model-Using-Pyhton)
   This project is focused on addressing the client's need for accurate sales predictions.
 
 <h2> 🤳 Connect with me:</h2>
