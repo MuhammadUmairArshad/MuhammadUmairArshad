@@ -2,11 +2,11 @@
 I help businesses turn raw data into clear insights for smarter decisions.
 <h2>👨‍💻 Portfolio Projects:</h2>
 
-- ### [Inventory Performance Analysis – Power BI Dashboard](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
+- ### [Inventory Performance Analysis – Power BI](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
   To monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
-- ### [HR Analytics – Power BI Dashboard](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
+- ### [HR Analytics – Power BI](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
   To track HR performance, analyze employee demographics, monitor attrition trends, and identify workforce patterns to support better HR decision making.
-- ### [Customer Churn Analysis – Power BI Dashboard](https://github.com/MuhammadUmairArshad/Customer-Churn-Analysis)
+- ### [Customer Churn Analysis – Power BI](https://github.com/MuhammadUmairArshad/Customer-Churn-Analysis)
   To analyze customer churn patterns, identify key churn reasons, detect high-risk customer segments, and support retention strategies by targeting root causes of customer attrition.
 - ### [Comprehensive Anomaly Detection – SQL](https://github.com/MuhammadUmairArshad/Comprehensive-Anomaly-Detection-Using-SQL)
   Developed 20 SQL queries to identify anomalies across financial transactions, operational processes, and customer interactions.
