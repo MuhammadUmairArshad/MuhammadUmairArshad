@@ -6,7 +6,8 @@
   To monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
 - ### [HR Analytics Dashboard – Employee Performance & Attrition Tracking](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
   To track HR performance, analyze employee demographics, monitor attrition trends, and identify workforce patterns to support better HR decision making.
-- [Order Approval Workflow Audit](https://github.com/yourusername/order-approval-audit) — SQL queries to detect discrepancies in order approvals.
+- ### [Customer Churn Analysis](https://github.com/MuhammadUmairArshad/Customer-Churn-Analysis)
+  To analyze customer churn patterns, identify key churn reasons, detect high-risk customer segments, and support retention strategies by targeting root causes of customer attrition. 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
