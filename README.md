@@ -10,6 +10,8 @@
   To analyze customer churn patterns, identify key churn reasons, detect high-risk customer segments, and support retention strategies by targeting root causes of customer attrition.
 - ### [Sales Forecasting Using Pyhton](https://github.com/MuhammadUmairArshad/Sales-Forecasting-Model-Using-Pyhton)
   This project is focused on addressing the client's need for accurate sales predictions.
+- ### [Comprehensive Anomaly Detection Using SQL](https://github.com/MuhammadUmairArshad/Comprehensive-Anomaly-Detection-Using-SQL)
+  Developed 20 optimized SQL queries to identify anomalies across financial transactions, operational processes, and customer interactions.
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
