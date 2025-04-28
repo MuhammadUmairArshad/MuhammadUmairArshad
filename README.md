@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Portfolio Projects:</h2>
 
-- [Sales Forecasting Model](https://github.com/yourusername/sales-forecasting) — Built a machine learning model to predict future sales using historical data.
+- [**Sales Forecasting Model**](https://github.com/yourusername/sales-forecasting) — Built a machine learning model to predict future sales using historical data.
 - [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation) — Conducted RFM analysis and visualized customer clusters in Power BI.
 - [Order Approval Workflow Audit](https://github.com/yourusername/order-approval-audit) — SQL queries to detect discrepancies in order approvals.
 
