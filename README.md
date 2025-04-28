@@ -1,6 +1,11 @@
 <h1>Hi, I'm Umair! <br/> Data Analyst , BI Developer
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
+## 🧩 Portfolio Projects
+
+- [Sales Forecasting Model](https://github.com/yourusername/sales-forecasting) — Built a machine learning model to predict future sales using historical data.
+- [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation) — Conducted RFM analysis and visualized customer clusters in Power BI.
+- [Order Approval Workflow Audit](https://github.com/yourusername/order-approval-audit) — SQL queries to detect discrepancies in order approvals.
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
