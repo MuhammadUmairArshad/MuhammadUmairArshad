@@ -7,7 +7,7 @@ I help businesses turn raw data into clear insights for smarter decisions.
 - ### [HR Analytics – Power BI](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
   To track HR performance, analyze employee demographics, monitor attrition trends, and identify workforce patterns to support better HR decision making.
 - ### [Customer Segmentation Analysis – SQL & Power BI](https://github.com/MuhammadUmairArshad/Customer-Segmentation-Analysis)
-  Implemented RFM (Recency, Frequency, Monetary) model in SQL to categorize customers based on their purchasing behaviors.
+  Implemented the RFM (Recency, Frequency, Monetary) model in SQL to segment customers based on purchasing behavior and visualized the results in Power BI to support targeted marketing and retention strategies.
 - ### [Customer Churn Analysis – Power BI](https://github.com/MuhammadUmairArshad/Customer-Churn-Analysis)
   To analyze customer churn patterns, identify key churn reasons, detect high-risk customer segments, and support retention strategies by targeting root causes of customer attrition.
 - ### [Comprehensive Anomaly Detection – SQL](https://github.com/MuhammadUmairArshad/Comprehensive-Anomaly-Detection-Using-SQL)
