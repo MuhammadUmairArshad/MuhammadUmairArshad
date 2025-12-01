@@ -2,6 +2,10 @@
 I help businesses turn raw data into clear insights for smarter decisions.
 <h2>👨‍💻 Portfolio Projects:</h2>
 
+- ### [MetroMart Sales Analysis – Power BI](https://github.com/MuhammadUmairArshad/MetroMart-Sales-Analysis)
+  Designed an interactive Power BI Sales Dashboard for MetroMart to uncover key trends, top performers, and profitability insights for faster, data-driven decision-making.
+- ### [Covid-19 Data Analysis - SQL & Tableau](https://github.com/MuhammadUmairArshad/Covid-19-Data-Analysis-Project)
+  Analyzed global COVID-19 data using SQL and designed a Tableau dashboard to visualize deaths, and vaccination trends across countries.
 - ### [Inventory Performance Analysis – Power BI](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
   To monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
 - ### [HR Analytics – Power BI](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
