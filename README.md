@@ -4,10 +4,10 @@ I help businesses turn raw data into clear insights for smarter decisions.
 
 - ### [MetroMart Sales Analysis – Power BI](https://github.com/MuhammadUmairArshad/MetroMart-Sales-Analysis)
   Designed an interactive Power BI Sales Dashboard for MetroMart to uncover key trends, top performers, and profitability insights for faster, data-driven decision-making.
-- ### [Inventory Performance Analysis – Power BI](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
-  To monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
 - ### [HR Analytics – Power BI](https://github.com/MuhammadUmairArshad/HR-Analytics-Dashboard)
   To track HR performance, analyze employee demographics, monitor attrition trends, and identify workforce patterns to support better HR decision making.
+- ### [Inventory Performance Analysis – Power BI](https://github.com/MuhammadUmairArshad/Inventory-Performance-Dashboard)
+  To monitor inventory health, track stock movement, identify slow-moving or dead stock, and support smarter procurement and warehouse decisions.
 - ### [Customer Segmentation Analysis – SQL & Power BI](https://github.com/MuhammadUmairArshad/Customer-Segmentation-Analysis)
   Implemented the RFM (Recency, Frequency, Monetary) model in SQL to segment customers based on purchasing behavior and visualized the results in Power BI to support targeted marketing and retention strategies.
 - ### [Customer Churn Analysis – Power BI](https://github.com/MuhammadUmairArshad/Customer-Churn-Analysis)
